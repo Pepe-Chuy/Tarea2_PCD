@@ -16,4 +16,7 @@ Repository Structure:
 │
 └── feature-1
     └── T2_JesúsCarbajal.ipynb 
+
+
+This activity helped me to understand deeply about MLOps and deployment, to get a better insight on what are we going to learn in the class and also have a individual contact with git to learn how to manage the repo from my enviroment and finally checking every change in github or a git extension.
     
